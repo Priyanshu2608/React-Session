@@ -3,7 +3,7 @@ import React from 'react'
 const JoinUs = () => {
   return (
     <div>
-      Hello 3
+    <h1>Welcome to the Join Us Page!</h1>
     </div>
   )
 }
